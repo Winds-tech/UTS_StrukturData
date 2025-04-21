@@ -44,10 +44,3 @@ Repositori ini berisi program Python untuk mencari data paper akademik menggunak
   [Sheet CSV Link](https://docs.google.com/spreadsheets/d/17ru4XAU2NloE9Dfxr2PC1BVcsYkLLT5r7nPSsiOFlvQ/edit?gid=743838712#gid=743838712)
 
 ---
-
-## Tentang
-
-Tugas UTS Struktur Data  
-Universitas Sultan Ageng Tirtayasa  
-Oleh: Muhammad Faried Risky Feriawan (3337240084)  
-Dosen: Cakra Adipura Wicaksana, S.T., M.T
