@@ -6,7 +6,7 @@ Repositori ini berisi program Python untuk mencari data paper akademik menggunak
 
 ## Daftar File
 
-- `search_papers.py`  
+- `main4.py`  
   Program utama untuk pencarian data paper menggunakan Linear Search dan Binary Search.
 
 ---
@@ -16,7 +16,7 @@ Repositori ini berisi program Python untuk mencari data paper akademik menggunak
 1. **Pastikan memiliki Python 3.x**  
 2. **Jalankan program di terminal:**
    ```sh
-   python search_papers.py
+   python main4.py
    ```
 3. **Ikuti menu interaktif** untuk memilih kriteria pencarian (judul, tahun, penulis), masukkan kata kunci, dan pilih metode pencarian (Linear/Binary).
 
