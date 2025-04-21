@@ -14,10 +14,7 @@ Repositori ini berisi program Python untuk mencari data paper akademik menggunak
 ## Cara Menjalankan
 
 1. **Pastikan memiliki Python 3.x**  
-2. **Jalankan program di terminal:**
-   ```sh
-   python main4.py
-   ```
+2. Library pandas (pip install pandas)
 3. **Ikuti menu interaktif** untuk memilih kriteria pencarian (judul, tahun, penulis), masukkan kata kunci, dan pilih metode pencarian (Linear/Binary).
 
 ---
